@@ -1,0 +1,36 @@
+.backButton
+{
+    margin-left: 24px;
+    margin-top: 8px;
+    margin-bottom: 0px;
+    height: 24px;
+}
+
+.backButton:hover
+{
+    cursor: pointer;
+}
+
+.flexContainer
+{
+    display: flex;
+    flex-direction: row;
+  
+    margin-left: 24px;
+}
+.leftDiv
+{
+    width: 20%;
+}
+.midDiv
+{
+    width: 60%;
+}
+.rightDiv
+{
+    width: 20%;
+}
+.backButtonLink
+{
+    text-decoration: none;
+}

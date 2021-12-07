@@ -1,0 +1,38 @@
+.heading
+{
+    background-color: #ff9999;
+    padding:  8px;
+    text-align: center;
+    font-size: 1rem;
+}
+.flex-container
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+.left
+{
+    width: 76%;
+    height: 100%;
+}
+.right
+{
+    width: 24%;
+   
+    
+}
+.movieSearchForm
+{
+    width: 90%;
+    height: 400px;
+    text-align: center;
+    margin-left: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 2%;
+}
+.rleasedMovieList:hover
+{
+    cursor: pointer;
+}
